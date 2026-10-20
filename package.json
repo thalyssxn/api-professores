@@ -1,0 +1,16 @@
+{
+  "name": "api-professores",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de professores com Node.js e Express (dados em memória)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["node", "express", "api", "professores"],
+  "author": "Thalysson Sergio Fernandes Soares",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
